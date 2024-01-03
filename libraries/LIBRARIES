@@ -65,3 +65,4 @@ microworlds/fancy-text.xml	(EDC) Fancy Stage Writing	Text formatting and basic f
 microworlds/microworld.xml	(EDC) Microworld	Customize the display of the Snap! UI to create a microworld programming environment.
 microworlds/script-pic-costume.xml	(EDC) Script Pic Costumes	Turn a ringified block/script into a costume
 microworlds/translations.xml	(EDC) Translations	Support for translating text, blocks, and dropdown/placeholder values
+microblocks_messaging_library.xml	MicroBlocks (MicroBlocks and Snap! Communication with Messages)	Snap! and MicroBlocks can exchange string messages over a USB cable using WebSerial. Messages are a flexible communciation mechanism that can be used in many ways.

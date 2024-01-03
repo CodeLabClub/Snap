@@ -194,6 +194,10 @@ var snapVersion = '10-240324-dev',
         'libraries/word-sentence.xml',
         'libraries/words_module.xml',
 
+        // codelab
+        'libraries/microblocks_messaging_library.xml',
+
+
         //costumes
         'Costumes/COSTUMES',
 
