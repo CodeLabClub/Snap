@@ -72,6 +72,10 @@ SnapExtensions.primitives.set(
 			wsbroker = wsbroker + ':8084/mqtt'
 		} else if (wsbroker == 'ws://broker.emqx.io') {
 			wsbroker = wsbroker + ':8083/mqtt'
+		} else if (wsbroker == 'wss://mqtt.aimaker.space') {
+			wsbroker = wsbroker + ':8084/mqtt'
+		} else if (wsbroker == 'ws://mqtt.aimaker.space') {
+			wsbroker = wsbroker + ':8083/mqtt'
 		} else if (broker == 'mqtt.eclipseprojects.io') {
 			wsbroker = wsbroker + '/mqtt'
 		} else if (wsbroker == 'wss://test.mosquitto.org') {
